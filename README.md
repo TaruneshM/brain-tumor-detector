@@ -21,7 +21,7 @@ A real-time brain tumor detection app built with **YOLOv8** and **Streamlit**, t
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/brain-tumor-detector
+git clone https://github.com/TaruneshM/brain-tumor-detector
 cd brain-tumor-detector
 
 pip install -r requirements.txt
